@@ -42,9 +42,7 @@ int main() {
     
     int T;
     cin >> T;
-
     
-
     for (int j=0; j<T; j++){
         cin >> s;
         if (s == "at") at();
